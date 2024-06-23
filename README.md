@@ -1,8 +1,8 @@
-# Instafilter SwiftData - 100 Days of SwiftUI
+# Instafilter - 100 Days of SwiftUI
 
 ## Overview
 
-Welcome to Instafilter SwiftData! This project is part of the 100 Days of SwiftUI series.
+Welcome to Instafilter! This project is part of the 100 Days of SwiftUI series.
 
 ## Introduction
 
